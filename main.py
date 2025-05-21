@@ -5,7 +5,7 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import requests
-
+ 
 app = Flask(__name__)
 app.config["UPLOAD_FOLDER"] = "uploads"
 os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)

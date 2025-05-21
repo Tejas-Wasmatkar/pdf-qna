@@ -23,7 +23,7 @@ Use command **ollama run llama3**
 **Step 3: Run flask Application**
 Use command **python main.py**
 
-
+ 
 
 Important resourses:
 Python Libraries --> https://pypi.org/
