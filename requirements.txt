@@ -1,0 +1,4 @@
+PyMuPDF 
+faiss-cpu 
+sentence-transformers
+requests
